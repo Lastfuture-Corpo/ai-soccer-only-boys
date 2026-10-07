@@ -1,0 +1,10 @@
+{
+  "name": "only_boys",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/trained_A.json"
+  ]
+}
